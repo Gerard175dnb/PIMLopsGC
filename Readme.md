@@ -161,6 +161,7 @@ Acá podemos observar la cantidad de horas jugadas por género en cuanto a una s
 
 + [GitHub](https://github.com/Gerard175dnb)
 
-
+* # video
++ [Video](https://www.youtube.com/watch?v=CeHRjuAz7b8&t=208s)
 
 + [Linkedin](https://www.linkedin.com/in/gerardocor175/)
