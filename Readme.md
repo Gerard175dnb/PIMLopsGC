@@ -24,6 +24,7 @@ Se realizaron algunas conversiones de tipo de dato con la extensión data wrangl
 - [Video](#video)
 - [Autor:](#Autor)
 
+*Link de render*: https://pimlopsgc.onrender.com/
 
 # Output_steam_games
 
